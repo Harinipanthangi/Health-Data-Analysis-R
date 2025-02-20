@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,BMI,Blood_Pressure,Cholesterol_Level,Diabetes,Heart_Disease,Smoking_Status,Exercise_Hours_Per_Week,Alcohol_Consumption,Hospital_Visits_Last_Year
+1,56,Male,21.1,Elevated,Normal,Yes,No,Non-Smoker,2.3,Never,9
+2,69,Male,34.2,Normal,Normal,No,No,Non-Smoker,7.4,Never,2
+3,46,Female,22.6,High,Normal,No,No,Smoker,3.1,Never,2
+4,32,Male,21,Normal,Borderline,No,No,Former Smoker,8.6,Occasionally,2
+5,60,Male,27.6,High,Normal,Yes,No,Former Smoker,7,Occasionally,6
+6,25,Female,35.6,Elevated,Normal,No,No,Non-Smoker,4,Occasionally,3
+7,78,Male,34.5,Elevated,Normal,Yes,Yes,Smoker,0.8,Never,3
+8,38,Male,19.7,Normal,High,Yes,No,Non-Smoker,7.3,Never,2
+9,56,Male,28.3,High,Borderline,No,No,Smoker,6.2,Occasionally,9
+10,75,Male,29.7,Normal,Borderline,No,No,Smoker,0,Frequent,8
+11,36,Male,32.4,Elevated,Normal,Yes,No,Non-Smoker,0.1,Never,1
+12,40,Female,32.5,Normal,Borderline,Yes,No,Former Smoker,8.1,Occasionally,3
+13,28,Male,26.3,Normal,Borderline,No,No,Former Smoker,2.6,Never,7
+14,28,Male,30.6,Normal,Borderline,Yes,Yes,Non-Smoker,6.4,Occasionally,5
+15,41,Male,28.8,High,High,No,No,Smoker,4.5,Frequent,6
+16,70,Male,37.5,High,Normal,No,No,Non-Smoker,8.6,Frequent,6
+17,53,Male,29.9,Normal,High,Yes,No,Non-Smoker,9.2,Occasionally,1
+18,57,Female,28,Normal,High,Yes,No,Non-Smoker,10,Never,3
+19,41,Male,27.2,Elevated,Normal,No,No,Former Smoker,1.5,Frequent,9
+20,20,Female,30.8,Normal,Normal,No,No,Non-Smoker,8.6,Occasionally,9
+21,39,Female,35.8,Normal,High,No,No,Non-Smoker,2.7,Never,5
+22,70,Male,30.1,Elevated,Normal,No,No,Smoker,5.9,Occasionally,2
+23,19,Male,32.7,Elevated,Normal,No,No,Non-Smoker,5.1,Frequent,8
+24,41,Male,34.4,High,High,No,No,Non-Smoker,0.2,Frequent,3
+25,61,Male,29.7,Normal,Normal,No,No,Smoker,9.3,Never,9
+26,47,Female,27.7,Normal,Normal,No,Yes,Non-Smoker,0.8,Occasionally,1
+27,55,Male,37.3,Elevated,Normal,No,No,Former Smoker,6.9,Frequent,5
+28,19,Male,27.5,Elevated,Normal,No,No,Non-Smoker,7.9,Never,0
+29,77,Male,28.4,Elevated,Normal,No,No,Smoker,8,Occasionally,5
+30,38,Male,39.8,Elevated,Normal,No,No,Smoker,1.4,Occasionally,9
+31,50,Male,18.5,Normal,Borderline,Yes,No,Non-Smoker,4.5,Occasionally,0
+32,29,Male,22.5,High,Normal,No,No,Non-Smoker,8.3,Never,7
+33,75,Female,26.8,Normal,Borderline,No,No,Non-Smoker,3,Occasionally,4
+34,39,Female,38.6,Normal,Borderline,Yes,No,Non-Smoker,4.7,Frequent,5
+35,78,Male,20,Elevated,Normal,Yes,No,Non-Smoker,2.7,Occasionally,1
+36,61,Male,18.7,Normal,Borderline,No,No,Non-Smoker,4.6,Occasionally,1
+37,42,Male,19.6,Normal,Normal,No,No,Non-Smoker,8.9,Never,8
+38,66,Female,20.4,High,Normal,No,No,Former Smoker,4.6,Never,2
+39,44,Male,19.3,Normal,Normal,No,No,Non-Smoker,5.6,Occasionally,5
+40,76,Female,28.8,Elevated,High,No,No,Smoker,4,Never,9
+41,59,Male,31,Normal,Normal,Yes,Yes,Non-Smoker,4.6,Frequent,4
+42,45,Male,24.3,Elevated,Normal,No,No,Non-Smoker,0.2,Never,3
+43,77,Male,27.1,Normal,Borderline,No,No,Former Smoker,2.8,Occasionally,9
+44,33,Male,20.5,Normal,Normal,No,No,Non-Smoker,4.4,Never,1
+45,32,Female,25.7,High,Normal,No,No,Former Smoker,6.3,Frequent,7
+46,79,Female,29.7,Elevated,Normal,No,No,Former Smoker,4.5,Never,9
+47,79,Male,34.2,Normal,Borderline,Yes,No,Non-Smoker,3.4,Never,6
+48,64,Male,18.6,Normal,Borderline,No,No,Non-Smoker,3.9,Never,1
+49,79,Female,28.5,High,Normal,Yes,No,Non-Smoker,2.4,Frequent,5
+50,68,Female,24.9,Elevated,Normal,No,Yes,Former Smoker,9.2,Never,7
+51,61,Female,36.8,Elevated,Normal,Yes,Yes,Non-Smoker,5.2,Never,6
+52,72,Female,33.9,Elevated,Borderline,Yes,No,Smoker,0.1,Never,0
+53,69,Male,31.2,Normal,Normal,No,Yes,Non-Smoker,0.2,Occasionally,4
+54,74,Female,24.5,Normal,Normal,No,No,Smoker,9.7,Never,1
+55,20,Male,38.1,Elevated,Normal,No,No,Non-Smoker,2.2,Never,5
+56,54,Female,19.5,Normal,Normal,Yes,No,Non-Smoker,8.1,Never,6
+57,68,Female,20.9,Normal,Normal,Yes,No,Non-Smoker,0.6,Occasionally,6
+58,24,Female,26.9,High,Normal,No,No,Former Smoker,9.2,Occasionally,2
+59,38,Female,21.2,Elevated,Normal,Yes,No,Non-Smoker,8.7,Occasionally,6
+60,26,Female,39.1,Elevated,Borderline,Yes,No,Smoker,5.7,Frequent,4
+61,56,Male,35.7,Elevated,Normal,No,No,Non-Smoker,0.1,Frequent,7
+62,35,Male,24.1,Elevated,High,No,No,Non-Smoker,2.6,Never,7
+63,21,Female,31.2,Normal,Normal,No,No,Non-Smoker,4.1,Occasionally,6
+64,42,Female,39.6,Normal,Borderline,No,No,Non-Smoker,4.6,Occasionally,5
+65,77,Male,37.5,Normal,Borderline,No,No,Smoker,3,Frequent,1
+66,31,Female,31.4,Normal,Normal,No,No,Non-Smoker,0.3,Occasionally,5
+67,67,Female,37.9,Elevated,Normal,No,No,Non-Smoker,5.9,Occasionally,8
+68,75,Male,39.8,Normal,Borderline,No,No,Non-Smoker,5.2,Occasionally,1
+69,26,Female,34.5,Normal,Normal,Yes,No,Smoker,2.8,Frequent,0
+70,43,Female,19.9,Normal,High,No,No,Non-Smoker,0.4,Never,4
+71,70,Male,27.1,Normal,Normal,Yes,No,Non-Smoker,9.9,Never,5
+72,19,Male,36.5,Normal,High,No,No,Non-Smoker,4.8,Never,2
+73,37,Male,23.5,Normal,Normal,Yes,No,Non-Smoker,7.6,Never,7
+74,45,Female,36.4,Normal,Borderline,No,No,Non-Smoker,4.5,Occasionally,6
+75,64,Male,21.1,Normal,Borderline,No,No,Former Smoker,0.4,Never,1
+76,77,Male,19.5,Normal,Borderline,Yes,No,Former Smoker,3.1,Never,6
+77,24,Male,26.8,Elevated,Normal,Yes,No,Non-Smoker,3.2,Frequent,0
+78,61,Male,19.3,Normal,Borderline,No,No,Non-Smoker,8.4,Occasionally,8
+79,78,Male,39.1,Normal,Normal,No,No,Former Smoker,6.5,Occasionally,6
+80,25,Male,36.3,Elevated,Borderline,No,No,Non-Smoker,2.8,Never,5
+81,64,Female,35.7,Normal,Normal,No,No,Smoker,9.7,Never,1
+82,52,Female,32,High,High,No,No,Former Smoker,3.2,Frequent,2
+83,31,Male,23.2,Elevated,Normal,No,No,Non-Smoker,10,Occasionally,0
+84,34,Male,29.6,Normal,Borderline,No,No,Smoker,10,Never,9
+85,53,Male,31.3,Elevated,High,No,No,Non-Smoker,1.9,Frequent,4
+86,67,Female,29.8,Normal,Borderline,No,No,Non-Smoker,3.1,Frequent,8
+87,57,Female,24.1,Elevated,Normal,No,No,Non-Smoker,4.9,Frequent,5
+88,21,Female,29.6,Normal,Normal,No,No,Non-Smoker,6.6,Occasionally,4
+89,19,Female,29.1,High,High,No,No,Smoker,5.3,Never,2
+90,79,Female,39.9,Normal,Normal,No,No,Smoker,9.7,Occasionally,4
+91,23,Female,37.8,Elevated,Normal,Yes,No,Non-Smoker,7.2,Occasionally,7
+92,71,Female,28.5,Elevated,Borderline,Yes,No,Non-Smoker,2.1,Never,1
+93,59,Female,31.9,Normal,Borderline,No,No,Non-Smoker,1.1,Occasionally,4
+94,21,Female,34.6,Normal,Normal,No,No,Smoker,6.9,Never,5
+95,71,Male,19.2,Elevated,Borderline,No,No,Smoker,1.6,Occasionally,9
+96,46,Male,37.7,High,Borderline,Yes,No,Former Smoker,7.9,Never,7
+97,35,Male,37,Normal,Normal,No,No,Non-Smoker,3.1,Occasionally,7
+98,43,Male,28.3,Elevated,High,No,No,Non-Smoker,3.3,Never,4
+99,61,Female,26.9,High,Normal,Yes,No,Smoker,0.1,Frequent,8
+100,51,Female,24.4,High,Normal,No,No,Non-Smoker,7,Occasionally,3
+101,27,Male,28.7,Normal,Normal,No,No,Non-Smoker,1.1,Occasionally,8
+102,79,Female,19.5,Elevated,Normal,No,Yes,Non-Smoker,7.7,Frequent,6
+103,53,Male,36.8,Normal,High,No,No,Smoker,4.9,Occasionally,5
+104,31,Female,19.3,High,Normal,No,No,Non-Smoker,7.8,Frequent,3
+105,48,Male,25.6,Normal,Normal,No,No,Former Smoker,5.8,Never,1
+106,65,Female,38.5,Normal,Normal,No,No,Former Smoker,0.8,Never,7
+107,32,Female,34.3,Elevated,Normal,No,No,Non-Smoker,7.7,Never,5
+108,25,Male,24.5,Normal,Normal,No,Yes,Non-Smoker,0.7,Never,2
+109,31,Female,23.9,High,Normal,No,No,Smoker,4.8,Frequent,6
+110,40,Male,18.6,High,Normal,No,No,Non-Smoker,1.7,Never,9
+111,77,Male,33.5,Elevated,High,No,No,Non-Smoker,7.5,Occasionally,6
+112,74,Male,19.5,Normal,Normal,Yes,No,Non-Smoker,9.1,Occasionally,5
+113,79,Male,30,Elevated,Normal,No,No,Former Smoker,5.5,Occasionally,1
+114,57,Female,39.2,Normal,Normal,No,No,Smoker,5.3,Occasionally,7
+115,38,Female,20.9,Normal,Borderline,Yes,No,Non-Smoker,7.6,Occasionally,0
+116,33,Female,37.7,High,Normal,No,No,Non-Smoker,0.1,Never,0
+117,62,Male,39.8,Normal,Normal,Yes,No,Non-Smoker,9.2,Never,5
+118,35,Female,19.8,Normal,Normal,No,No,Non-Smoker,2,Occasionally,4
+119,64,Male,37.5,High,High,No,Yes,Smoker,9.8,Occasionally,8
+120,70,Female,29.6,Normal,Normal,No,No,Former Smoker,7.4,Occasionally,6
+121,41,Female,38,Normal,Borderline,Yes,No,Non-Smoker,7.7,Frequent,1
+122,43,Female,30.8,High,Normal,Yes,No,Non-Smoker,6.6,Occasionally,6
+123,42,Male,32.7,Normal,Normal,No,Yes,Former Smoker,4.7,Occasionally,2
+124,77,Female,30.2,Elevated,Borderline,No,No,Non-Smoker,5.7,Never,0
+125,77,Female,37.1,High,Normal,No,No,Smoker,0.5,Occasionally,7
+126,77,Male,34.3,High,High,No,No,Non-Smoker,6.2,Occasionally,2
+127,62,Female,29.7,Elevated,High,No,No,Smoker,6.3,Never,7
+128,58,Male,37.2,Normal,High,No,No,Smoker,8.9,Never,6
+129,46,Female,23.8,Normal,Normal,No,No,Non-Smoker,5.1,Occasionally,1
+130,32,Male,21.9,High,Borderline,No,No,Former Smoker,0.8,Never,0
+131,62,Male,21.9,High,Normal,No,No,Smoker,3.1,Never,6
+132,18,Female,25.7,Elevated,High,No,No,Non-Smoker,6.6,Occasionally,0
+133,42,Male,23.6,Normal,Borderline,Yes,No,Smoker,2.4,Never,5
+134,24,Male,38.5,Normal,Borderline,No,No,Non-Smoker,2.8,Frequent,9
+135,26,Male,20.8,Normal,Normal,No,No,Non-Smoker,8.2,Never,9
+136,41,Male,33.5,Elevated,Normal,Yes,No,Non-Smoker,5.8,Occasionally,7
+137,18,Male,22.6,Normal,Normal,Yes,No,Non-Smoker,5.1,Occasionally,6
+138,61,Male,37.5,High,Borderline,No,No,Non-Smoker,3.2,Frequent,3
+139,25,Female,39.2,Elevated,Normal,No,No,Former Smoker,7.3,Never,0
+140,41,Male,28.5,Normal,Normal,No,No,Non-Smoker,2.9,Occasionally,0
+141,28,Male,37.4,Elevated,Borderline,No,No,Non-Smoker,7.4,Occasionally,3
+142,68,Female,18.6,Normal,Normal,No,No,Former Smoker,0.7,Occasionally,4
+143,34,Female,36.1,Elevated,Normal,No,No,Smoker,8.6,Occasionally,6
+144,25,Female,23.4,Elevated,Normal,No,No,Non-Smoker,5,Occasionally,3
+145,52,Female,38,High,Normal,No,No,Former Smoker,4.4,Frequent,9
+146,52,Female,18.5,High,Normal,No,No,Smoker,6.1,Never,0
+147,50,Female,30.5,Normal,Normal,No,No,Non-Smoker,6.2,Never,9
+148,76,Female,34.8,Normal,Normal,No,No,Non-Smoker,1.3,Frequent,6
+149,22,Male,24.1,Elevated,Normal,No,No,Non-Smoker,7.6,Never,1
+150,59,Male,22.7,Normal,Borderline,Yes,No,Non-Smoker,2.8,Frequent,1
+151,56,Female,20.3,Normal,Normal,Yes,No,Non-Smoker,9,Occasionally,7
+152,75,Male,25.5,Normal,Normal,No,No,Non-Smoker,8.2,Occasionally,9
+153,58,Male,30.5,Elevated,High,No,No,Non-Smoker,3.5,Never,9
+154,45,Male,21,Normal,Normal,No,No,Non-Smoker,8.1,Never,9
+155,24,Female,26.6,Elevated,Normal,Yes,Yes,Smoker,3.6,Occasionally,4
+156,26,Female,18.7,High,Borderline,Yes,No,Former Smoker,1,Frequent,9
+157,25,Male,36.1,Normal,High,No,No,Smoker,9.6,Frequent,1
+158,29,Female,21.3,Normal,Borderline,No,Yes,Former Smoker,6.5,Never,4
+159,51,Male,24.6,Normal,Borderline,No,No,Non-Smoker,4.6,Never,7
+160,50,Male,18.9,High,Borderline,No,No,Non-Smoker,4,Never,5
+161,65,Male,27.8,Normal,Normal,No,No,Non-Smoker,3.2,Frequent,2
+162,72,Male,36.6,Normal,Borderline,No,No,Non-Smoker,9.8,Never,7
+163,40,Female,26.9,Normal,Normal,No,No,Non-Smoker,1.3,Never,8
+164,79,Female,22.4,Elevated,High,No,No,Smoker,3.1,Never,4
+165,41,Female,34.7,Normal,Normal,No,No,Non-Smoker,4.9,Never,1
+166,54,Male,35.5,Elevated,Normal,No,No,Non-Smoker,4.8,Frequent,1
+167,52,Female,22.2,High,Normal,No,No,Smoker,4.7,Occasionally,6
+168,61,Male,35.1,Normal,Borderline,No,No,Non-Smoker,1.8,Never,0
+169,57,Female,38.9,High,Normal,Yes,Yes,Smoker,1.4,Never,9
+170,39,Male,22.1,Normal,High,No,No,Non-Smoker,2.5,Never,1
+171,44,Male,35.1,High,Borderline,No,No,Smoker,9.1,Never,9
+172,52,Male,33.7,Elevated,Normal,No,No,Smoker,1.1,Never,3
+173,18,Female,28.7,High,Borderline,No,No,Smoker,7.6,Occasionally,0
+174,52,Female,19.7,Normal,Borderline,No,No,Former Smoker,7.6,Never,3
+175,54,Female,20.1,Normal,Borderline,Yes,No,Smoker,8.1,Never,9
+176,64,Female,36.8,Normal,Normal,No,Yes,Non-Smoker,8.9,Never,4
+177,31,Male,39.8,Normal,Normal,No,No,Smoker,2.6,Occasionally,8
+178,20,Female,33,Normal,Normal,No,No,Former Smoker,2.2,Occasionally,0
+179,18,Female,28.1,Normal,Normal,No,No,Smoker,4.7,Occasionally,4
+180,22,Male,32.4,Normal,High,No,No,Former Smoker,2.7,Occasionally,1
+181,43,Male,31.3,Normal,Normal,No,No,Non-Smoker,7.3,Occasionally,8
+182,72,Male,26.7,High,Borderline,No,No,Smoker,6.4,Never,5
+183,31,Female,19.9,Normal,Normal,No,No,Former Smoker,8.7,Frequent,1
+184,56,Male,36.2,Normal,Normal,No,Yes,Non-Smoker,0.8,Never,2
+185,44,Male,26.5,Normal,Borderline,No,No,Non-Smoker,9.2,Occasionally,7
+186,26,Male,36.1,Normal,High,No,No,Non-Smoker,2.9,Occasionally,0
+187,32,Female,23.9,High,Normal,No,No,Former Smoker,4.9,Occasionally,2
+188,32,Male,18.5,Normal,Normal,No,No,Non-Smoker,4.4,Frequent,9
+189,43,Female,21.9,Elevated,Normal,No,No,Non-Smoker,7.6,Occasionally,0
+190,59,Female,28.6,High,Normal,No,No,Non-Smoker,4.2,Frequent,7
+191,77,Male,38.8,High,Normal,No,No,Non-Smoker,9.4,Frequent,0
+192,30,Male,20.7,Elevated,Normal,No,No,Former Smoker,9,Frequent,4
+193,68,Female,36.9,High,Normal,No,No,Non-Smoker,8.7,Frequent,3
+194,49,Male,29.8,High,Borderline,Yes,No,Non-Smoker,0.7,Frequent,6
+195,56,Male,36.3,Elevated,Normal,Yes,No,Former Smoker,8.5,Occasionally,4
+196,66,Female,24.9,Elevated,Normal,No,No,Smoker,7.8,Never,7
+197,69,Female,36.6,Elevated,Normal,No,No,Non-Smoker,1,Never,0
+198,78,Male,35.1,Elevated,Borderline,No,No,Non-Smoker,1.1,Occasionally,4
+199,49,Female,23.4,Elevated,High,No,No,Non-Smoker,1,Frequent,3
+200,21,Male,21.3,Normal,Normal,No,No,Smoker,0.1,Occasionally,2
+201,47,Male,37.2,Normal,Borderline,No,No,Non-Smoker,5.5,Frequent,4
+202,54,Male,39.2,Normal,Normal,No,No,Non-Smoker,9.7,Frequent,9
+203,40,Female,19.2,Normal,Normal,Yes,No,Non-Smoker,4.4,Never,2
+204,56,Male,34.2,Normal,Normal,No,No,Former Smoker,5.4,Never,7
+205,62,Male,38.1,Normal,Normal,No,No,Non-Smoker,9.7,Never,2
+206,32,Male,36.9,Elevated,Borderline,Yes,No,Smoker,2.6,Never,0
+207,60,Female,39.2,Normal,High,No,No,Smoker,8.6,Occasionally,8
+208,46,Female,34.8,High,Normal,Yes,No,Former Smoker,5.5,Frequent,8
+209,53,Female,28,Normal,Borderline,No,No,Smoker,5.7,Occasionally,5
+210,30,Female,25.2,Normal,Normal,No,Yes,Non-Smoker,3.4,Occasionally,9
+211,49,Female,25.4,Elevated,Normal,No,No,Non-Smoker,5.6,Never,0
+212,24,Male,34.1,Elevated,Normal,No,No,Non-Smoker,0.7,Never,7
+213,76,Female,34.5,Normal,Normal,No,Yes,Smoker,7.6,Occasionally,1
+214,68,Female,22.8,High,Normal,No,No,Non-Smoker,2.8,Never,8
+215,39,Female,37.2,High,Normal,No,No,Non-Smoker,8.9,Never,7
+216,45,Male,33.9,Normal,Normal,No,No,Former Smoker,3.7,Occasionally,2
+217,19,Female,30.6,Normal,Normal,No,No,Smoker,1.4,Never,4
+218,59,Female,28.6,High,Borderline,No,No,Non-Smoker,7,Frequent,8
+219,62,Male,30.2,Elevated,Normal,No,No,Non-Smoker,1.6,Never,0
+220,79,Female,21.9,Elevated,High,No,No,Non-Smoker,7.5,Never,8
+221,74,Male,22.9,High,Normal,No,No,Non-Smoker,9.7,Never,3
+222,70,Male,20.5,Normal,Borderline,No,No,Non-Smoker,7.8,Never,3
+223,23,Male,21.8,Normal,High,No,No,Non-Smoker,0.2,Occasionally,3
+224,45,Male,28.3,Normal,Borderline,No,No,Non-Smoker,6,Occasionally,9
+225,45,Male,29.9,Elevated,Normal,No,No,Non-Smoker,7,Occasionally,8
+226,61,Female,18.9,Elevated,Borderline,No,No,Non-Smoker,8.3,Occasionally,5
+227,61,Male,35.6,Elevated,Normal,No,No,Smoker,0.6,Never,7
+228,37,Male,24.8,Normal,Normal,No,No,Smoker,4.8,Occasionally,3
+229,47,Female,38.1,Normal,Normal,No,No,Smoker,5.4,Never,2
+230,79,Male,39.3,Normal,Normal,No,No,Smoker,1.7,Never,0
+231,28,Female,22.5,Elevated,Normal,No,No,Non-Smoker,3.2,Occasionally,9
+232,75,Female,28.4,Elevated,High,No,No,Former Smoker,4.4,Frequent,6
+233,72,Female,18.5,Normal,Borderline,No,No,Non-Smoker,8.3,Occasionally,3
+234,45,Male,31.4,High,Normal,Yes,No,Non-Smoker,9.3,Never,7
+235,42,Male,31.6,Normal,High,Yes,No,Smoker,6.3,Never,2
+236,56,Male,23.8,High,Normal,Yes,No,Non-Smoker,3.9,Frequent,0
+237,79,Female,30.5,Normal,High,No,No,Smoker,2.5,Never,4
+238,50,Male,23.3,Elevated,Normal,Yes,No,Former Smoker,9.8,Never,1
+239,18,Male,22,Normal,Normal,Yes,Yes,Non-Smoker,9.8,Never,2
+240,74,Male,32.5,High,Borderline,No,No,Former Smoker,9.2,Never,5
+241,44,Female,25.5,Normal,Borderline,No,No,Former Smoker,7.9,Never,2
+242,79,Female,31.2,Normal,Borderline,No,No,Non-Smoker,3.3,Occasionally,2
+243,74,Male,27.8,Normal,High,No,No,Non-Smoker,8.2,Occasionally,5
+244,69,Male,39.7,Normal,Borderline,Yes,Yes,Smoker,4.1,Frequent,4
+245,30,Male,21.7,Normal,Borderline,No,No,Non-Smoker,3.3,Never,9
+246,58,Male,28.5,High,High,No,No,Former Smoker,7.4,Never,8
+247,20,Female,33.1,Normal,Borderline,No,No,Smoker,0.8,Occasionally,0
+248,56,Female,27,Elevated,Normal,No,No,Former Smoker,0.5,Occasionally,2
+249,23,Female,39.5,Elevated,High,No,No,Non-Smoker,4.5,Occasionally,2
+250,25,Female,34,Elevated,Normal,No,No,Former Smoker,4.5,Frequent,5
+251,44,Male,32.6,Normal,Borderline,No,No,Former Smoker,9,Never,7
+252,26,Male,34.8,Normal,High,Yes,No,Non-Smoker,1.3,Frequent,2
+253,79,Male,39,Elevated,Borderline,Yes,No,Non-Smoker,1.2,Occasionally,2
+254,54,Female,38,High,Borderline,Yes,No,Non-Smoker,1.5,Never,5
+255,50,Male,34.1,Normal,Borderline,No,No,Former Smoker,0.3,Frequent,7
+256,68,Female,34.6,Normal,Normal,No,No,Former Smoker,0.7,Occasionally,5
+257,59,Female,21.6,Normal,High,Yes,Yes,Non-Smoker,6.6,Never,9
+258,61,Male,20.7,High,Normal,No,Yes,Non-Smoker,4.3,Never,2
+259,41,Male,30.8,Normal,Normal,No,No,Non-Smoker,7.6,Never,3
+260,32,Male,18.9,Normal,Normal,Yes,No,Former Smoker,9.9,Occasionally,0
+261,76,Female,28.9,High,Normal,No,Yes,Non-Smoker,6.6,Never,7
+262,71,Male,23,Normal,Normal,Yes,No,Former Smoker,0.5,Never,3
+263,49,Female,25.9,Normal,Borderline,No,No,Non-Smoker,1,Never,5
+264,49,Male,35.2,Elevated,Normal,No,Yes,Smoker,8.8,Occasionally,2
+265,41,Female,38.7,High,Normal,No,No,Non-Smoker,5.3,Frequent,5
+266,58,Female,20.1,Normal,Normal,Yes,No,Non-Smoker,8.2,Occasionally,8
+267,69,Male,30,Normal,Normal,No,No,Smoker,8.6,Never,8
+268,66,Female,37.5,Normal,Borderline,Yes,No,Smoker,9.3,Frequent,9
+269,79,Female,20.3,Normal,Normal,Yes,No,Non-Smoker,9.5,Occasionally,2
+270,66,Male,36.2,Elevated,Normal,No,No,Smoker,5.5,Frequent,2
+271,75,Female,26.2,Normal,Normal,No,No,Non-Smoker,3.4,Occasionally,3
+272,69,Male,25.4,Normal,Normal,No,No,Non-Smoker,9.6,Occasionally,6
+273,29,Female,39.5,Normal,Normal,No,No,Former Smoker,5.5,Occasionally,2
+274,79,Male,22.8,Elevated,Normal,No,Yes,Non-Smoker,0.6,Never,9
+275,56,Male,33.4,Elevated,Borderline,Yes,Yes,Former Smoker,6.4,Occasionally,7
+276,19,Female,36.2,High,Borderline,Yes,Yes,Non-Smoker,5.9,Frequent,7
+277,20,Female,19.4,Normal,Normal,No,No,Non-Smoker,9,Frequent,5
+278,66,Female,32.9,High,High,No,No,Non-Smoker,6.5,Frequent,3
+279,54,Female,39,High,Normal,No,No,Non-Smoker,3.5,Occasionally,4
+280,66,Female,21.2,Normal,Normal,No,No,Non-Smoker,9.7,Never,1
+281,73,Male,37.8,Normal,High,No,No,Smoker,8,Never,5
+282,34,Female,31.3,Normal,Normal,No,No,Non-Smoker,6.3,Occasionally,2
+283,76,Male,31.8,Normal,High,No,No,Smoker,2.9,Occasionally,5
+284,66,Male,31.7,Normal,Normal,No,No,Non-Smoker,3.7,Never,4
+285,19,Female,24.9,Normal,Normal,No,No,Smoker,6.7,Never,1
+286,19,Male,38.6,Normal,Normal,No,No,Non-Smoker,0.7,Occasionally,4
+287,45,Male,38.9,High,Borderline,No,No,Non-Smoker,2.6,Occasionally,4
+288,71,Male,31.9,Normal,Borderline,No,No,Smoker,7.1,Frequent,8
+289,40,Male,35.3,High,Borderline,No,No,Non-Smoker,4.8,Occasionally,7
+290,54,Female,31.7,Elevated,Normal,No,No,Non-Smoker,4,Occasionally,6
+291,49,Male,28.9,High,Normal,No,No,Former Smoker,1.5,Occasionally,2
+292,50,Female,32.7,Elevated,Normal,Yes,No,Former Smoker,4.4,Frequent,9
+293,18,Female,30.4,Normal,Normal,No,No,Non-Smoker,7.7,Occasionally,3
+294,36,Male,31.3,Elevated,High,No,Yes,Non-Smoker,2.6,Frequent,5
+295,79,Female,35.4,Normal,Normal,No,No,Non-Smoker,0.1,Frequent,2
+296,19,Female,28.8,Normal,Borderline,No,Yes,Non-Smoker,6.7,Frequent,8
+297,70,Female,19.4,High,Borderline,No,No,Smoker,9.7,Never,7
+298,61,Male,22,Normal,Normal,No,No,Non-Smoker,6.1,Never,5
+299,43,Female,27.9,Normal,Borderline,No,No,Non-Smoker,1.2,Never,3
+300,49,Female,34.1,Elevated,Normal,No,No,Smoker,3.2,Never,6
+301,23,Female,31.3,High,Normal,No,No,Non-Smoker,8.7,Never,2
+302,49,Male,32.5,Elevated,Normal,No,No,Non-Smoker,2.3,Never,9
+303,72,Female,28.8,Normal,Normal,Yes,No,Non-Smoker,6.1,Never,7
+304,21,Male,31.7,Elevated,Normal,No,No,Smoker,4,Occasionally,0
+305,72,Male,25.6,Normal,Normal,Yes,No,Non-Smoker,2.1,Occasionally,2
+306,28,Male,28.6,Elevated,Normal,No,No,Non-Smoker,8.1,Never,4
+307,73,Male,34.5,High,Normal,No,No,Non-Smoker,7.4,Occasionally,4
+308,76,Male,37.2,Elevated,Borderline,No,No,Non-Smoker,6.6,Occasionally,9
+309,34,Male,27.8,High,Borderline,No,No,Non-Smoker,2.4,Occasionally,1
+310,55,Female,19.4,Normal,Normal,Yes,No,Former Smoker,1,Frequent,9
+311,41,Male,22,Elevated,Normal,No,Yes,Non-Smoker,5.8,Never,7
+312,22,Female,18.9,High,Borderline,No,Yes,Former Smoker,5.5,Never,4
+313,69,Female,32.5,Normal,Normal,No,No,Non-Smoker,1.9,Occasionally,6
+314,51,Male,25.6,High,Borderline,No,No,Non-Smoker,0.6,Never,6
+315,23,Female,30.2,Normal,Normal,Yes,No,Non-Smoker,0.8,Occasionally,4
+316,39,Female,29.1,Elevated,Normal,Yes,No,Smoker,9.9,Never,7
+317,28,Female,20.3,High,Normal,Yes,No,Smoker,7.8,Never,8
+318,65,Female,27.2,Elevated,Normal,Yes,No,Non-Smoker,9.2,Never,3
+319,33,Male,23.2,Normal,Borderline,No,No,Non-Smoker,2,Never,3
+320,50,Female,27.5,Elevated,Normal,No,No,Former Smoker,9.6,Occasionally,7
+321,26,Male,22.9,Elevated,Borderline,No,No,Non-Smoker,1.4,Occasionally,0
+322,77,Female,36.6,High,High,No,No,Smoker,5.1,Never,3
+323,76,Female,22.2,Normal,Normal,Yes,No,Non-Smoker,8.3,Never,5
+324,23,Male,39.2,Normal,Borderline,No,No,Non-Smoker,3.5,Never,3
+325,33,Female,27.4,Elevated,Normal,Yes,No,Former Smoker,4.2,Never,5
+326,46,Female,36.7,Normal,Normal,No,No,Former Smoker,1.3,Frequent,4
+327,20,Female,32,Elevated,Borderline,No,No,Former Smoker,1.2,Never,8
+328,37,Male,34.3,Elevated,Normal,Yes,Yes,Non-Smoker,6.2,Occasionally,9
+329,77,Female,35,High,Normal,No,No,Non-Smoker,6.8,Frequent,8
+330,76,Male,29.4,Elevated,Normal,No,No,Non-Smoker,7.8,Never,3
+331,53,Female,30.2,Elevated,Normal,No,No,Former Smoker,5.6,Occasionally,3
+332,36,Male,29.6,Normal,High,No,No,Smoker,6.5,Frequent,7
+333,43,Male,31.1,Normal,High,Yes,No,Smoker,0.1,Frequent,9
+334,20,Female,19.1,Normal,Borderline,No,No,Smoker,1.6,Occasionally,3
+335,36,Female,27,Normal,Borderline,No,No,Non-Smoker,9.8,Occasionally,1
+336,37,Male,31.5,Elevated,Normal,Yes,No,Non-Smoker,0.8,Frequent,1
+337,49,Male,31.4,Elevated,Normal,No,Yes,Non-Smoker,6.8,Never,0
+338,24,Female,35.5,Elevated,Normal,Yes,Yes,Former Smoker,1.8,Frequent,4
+339,69,Male,32.6,High,Normal,No,No,Former Smoker,7.2,Occasionally,5
+340,58,Female,39.8,High,Normal,Yes,Yes,Non-Smoker,7.1,Occasionally,8
+341,50,Female,24.6,High,High,No,No,Non-Smoker,2.3,Frequent,4
+342,57,Female,26.2,Elevated,Normal,No,Yes,Former Smoker,2.7,Frequent,5
+343,56,Female,26.8,Elevated,Normal,No,No,Former Smoker,6.5,Never,5
+344,35,Male,28.5,Normal,Normal,No,No,Non-Smoker,3.9,Never,2
+345,57,Female,36.5,Normal,Borderline,No,No,Non-Smoker,1.9,Occasionally,3
+346,18,Male,23.6,Normal,Borderline,No,Yes,Non-Smoker,7.3,Occasionally,0
+347,28,Female,35.2,High,Normal,No,No,Former Smoker,1.5,Occasionally,3
+348,45,Male,27.2,High,Normal,No,No,Non-Smoker,8.6,Frequent,0
+349,74,Female,31.4,Normal,Borderline,Yes,No,Non-Smoker,5.1,Frequent,4
+350,42,Male,32.1,Normal,Normal,Yes,No,Smoker,1.1,Occasionally,7
+351,67,Male,26.5,High,Normal,No,Yes,Former Smoker,6.9,Never,7
+352,40,Female,29.5,Normal,Borderline,No,No,Non-Smoker,5.2,Occasionally,4
+353,48,Female,27.4,Normal,Borderline,No,Yes,Smoker,3,Occasionally,9
+354,47,Female,20,High,Normal,No,No,Non-Smoker,4.2,Occasionally,1
+355,59,Female,27.9,Normal,Borderline,No,Yes,Non-Smoker,3,Occasionally,5
+356,52,Male,20.6,Normal,Borderline,No,No,Non-Smoker,2.6,Occasionally,0
+357,24,Female,27.2,Elevated,Normal,No,No,Non-Smoker,1.6,Never,6
+358,77,Male,31.2,High,High,No,No,Non-Smoker,3.6,Never,3
+359,33,Male,31,Elevated,Borderline,Yes,No,Former Smoker,2.5,Occasionally,4
+360,43,Female,32.7,Normal,Borderline,No,No,Smoker,6.8,Never,5
+361,65,Male,20.5,Normal,Borderline,Yes,No,Smoker,6.8,Never,0
+362,74,Male,32.5,Normal,Normal,Yes,No,Smoker,5,Never,8
+363,69,Male,25.2,Elevated,Normal,No,No,Non-Smoker,7.8,Occasionally,9
+364,77,Male,27.1,Elevated,Normal,No,No,Non-Smoker,8.4,Never,3
+365,66,Female,36.9,Normal,Normal,No,No,Former Smoker,5.8,Frequent,7
+366,19,Female,18.7,High,Normal,No,No,Non-Smoker,6.2,Occasionally,4
+367,18,Female,31.2,Normal,High,No,No,Non-Smoker,2.8,Occasionally,7
+368,65,Female,31.4,Normal,Borderline,Yes,No,Former Smoker,8.9,Occasionally,0
+369,79,Male,27,Normal,Borderline,No,Yes,Non-Smoker,0.2,Never,7
+370,29,Male,23.6,Normal,High,No,No,Former Smoker,3.5,Occasionally,3
+371,22,Female,23.5,Elevated,Borderline,No,No,Non-Smoker,7.2,Frequent,1
+372,54,Female,37.5,Elevated,Normal,No,No,Non-Smoker,0.8,Occasionally,5
+373,49,Female,28,Normal,Normal,No,No,Non-Smoker,1.8,Frequent,1
+374,76,Male,25.6,Elevated,Normal,No,No,Non-Smoker,5.9,Occasionally,4
+375,72,Female,28.1,Normal,Borderline,No,No,Smoker,5.6,Never,1
+376,26,Female,32.9,Elevated,Normal,No,No,Non-Smoker,7.4,Never,2
+377,58,Female,21.6,High,Borderline,No,No,Non-Smoker,8.1,Occasionally,5
+378,52,Male,28.2,Normal,Normal,No,No,Former Smoker,1.3,Never,0
+379,36,Male,31.1,Elevated,Borderline,No,No,Non-Smoker,0.2,Never,5
+380,65,Male,38.9,Normal,Borderline,No,No,Former Smoker,6.9,Frequent,2
+381,33,Male,23.9,Normal,Borderline,No,No,Non-Smoker,3,Never,6
+382,20,Male,26.2,Normal,High,No,No,Non-Smoker,6.3,Never,1
+383,37,Male,26.7,Elevated,Borderline,No,No,Non-Smoker,1.5,Frequent,5
+384,41,Male,31.5,Elevated,High,Yes,No,Non-Smoker,4.7,Frequent,7
+385,71,Male,26.2,Normal,High,Yes,No,Former Smoker,5,Never,0
+386,73,Female,30,High,Borderline,No,No,Non-Smoker,5.9,Frequent,8
+387,50,Female,35.3,Elevated,Borderline,No,No,Non-Smoker,5.1,Frequent,4
+388,41,Male,33.7,High,Normal,Yes,No,Smoker,5,Occasionally,4
+389,69,Male,28.1,Elevated,Normal,No,No,Non-Smoker,3.3,Never,4
+390,28,Female,37.1,Elevated,Normal,Yes,No,Non-Smoker,0.7,Never,5
+391,66,Male,30.5,Normal,Normal,No,No,Non-Smoker,0.9,Occasionally,1
+392,25,Male,30.1,Normal,Normal,No,No,Non-Smoker,4.3,Never,5
+393,53,Male,19.2,High,High,Yes,No,Non-Smoker,3.6,Frequent,3
+394,55,Female,39.7,Normal,High,Yes,No,Smoker,5.2,Occasionally,7
+395,57,Female,21.1,High,Borderline,No,No,Smoker,3,Occasionally,8
+396,37,Female,23.5,Elevated,Normal,No,No,Non-Smoker,6.9,Frequent,8
+397,79,Female,19.6,Normal,Normal,No,No,Former Smoker,8.6,Frequent,7
+398,52,Female,32.3,Normal,Normal,No,No,Non-Smoker,3,Never,2
+399,65,Male,23.3,Normal,Normal,No,Yes,Non-Smoker,1.9,Never,9
+400,79,Female,22.4,High,Normal,Yes,No,Non-Smoker,1.2,Occasionally,3
+401,42,Male,20.4,Normal,Normal,No,No,Non-Smoker,6.2,Never,0
+402,52,Male,20.7,Normal,High,Yes,Yes,Former Smoker,4.4,Occasionally,8
+403,42,Female,31.1,Normal,Borderline,No,No,Smoker,1.9,Occasionally,4
+404,46,Female,33.3,Normal,Normal,No,No,Non-Smoker,6.5,Frequent,5
+405,35,Male,27,Normal,Normal,No,No,Non-Smoker,1.5,Occasionally,2
+406,63,Male,28.8,Normal,Normal,Yes,No,Smoker,5.5,Occasionally,9
+407,35,Male,33.2,High,Normal,No,No,Non-Smoker,5.3,Never,7
+408,19,Female,18.9,Normal,High,Yes,No,Non-Smoker,7.3,Occasionally,6
+409,71,Female,25.4,Normal,Normal,Yes,No,Non-Smoker,0.6,Never,0
+410,52,Female,39.4,Normal,Normal,No,Yes,Non-Smoker,8.9,Frequent,9
+411,33,Female,31,Normal,Normal,No,No,Smoker,7,Never,4
+412,78,Female,24,High,Normal,No,No,Non-Smoker,2.2,Occasionally,9
+413,58,Male,29.7,Elevated,Borderline,Yes,No,Non-Smoker,1.8,Never,8
+414,53,Female,25.9,Normal,Borderline,No,Yes,Non-Smoker,4.3,Never,5
+415,50,Male,29.9,Elevated,Borderline,No,No,Smoker,8.2,Occasionally,7
+416,21,Male,21.2,Normal,Normal,No,No,Non-Smoker,8.4,Occasionally,9
+417,50,Male,21.4,Normal,Normal,No,No,Non-Smoker,5.2,Never,0
+418,31,Female,21.6,High,Normal,No,No,Non-Smoker,8.6,Never,9
+419,38,Female,38.7,Elevated,High,No,No,Former Smoker,0.1,Occasionally,6
+420,65,Female,34.3,High,Normal,No,No,Former Smoker,0.4,Occasionally,2
+421,37,Male,22,Normal,Normal,No,No,Non-Smoker,9.1,Never,8
+422,73,Male,22.5,Elevated,Borderline,No,No,Non-Smoker,7.8,Occasionally,5
+423,25,Male,34.2,Normal,Borderline,No,No,Non-Smoker,4.5,Never,4
+424,24,Male,21.9,Normal,Normal,No,No,Non-Smoker,7.5,Occasionally,7
+425,20,Male,23.5,High,Normal,No,No,Smoker,9.6,Never,7
+426,34,Male,39.2,Normal,Normal,No,Yes,Smoker,7.7,Occasionally,2
+427,50,Female,24,High,High,No,No,Former Smoker,8.4,Never,1
+428,65,Female,32.7,Elevated,Normal,Yes,No,Non-Smoker,7.6,Frequent,1
+429,29,Female,39.5,Normal,High,Yes,No,Non-Smoker,1.7,Never,4
+430,76,Female,26.5,Elevated,Normal,No,No,Non-Smoker,8.3,Never,9
+431,68,Male,18.9,Elevated,High,No,Yes,Non-Smoker,2,Never,6
+432,39,Male,23.7,Normal,Borderline,No,No,Smoker,8.9,Frequent,7
+433,72,Female,36.4,High,Normal,No,No,Smoker,4.6,Occasionally,9
+434,39,Male,37.1,Elevated,High,No,No,Smoker,6.8,Occasionally,7
+435,63,Female,35,Normal,Normal,Yes,No,Non-Smoker,5,Frequent,7
+436,47,Female,20.9,Elevated,High,Yes,Yes,Non-Smoker,0.9,Frequent,9
+437,55,Female,35.6,High,Borderline,No,No,Smoker,2.9,Occasionally,2
+438,55,Male,38.3,Normal,Normal,No,No,Non-Smoker,9.8,Never,1
+439,62,Female,31.4,High,Borderline,No,No,Non-Smoker,9.6,Frequent,3
+440,68,Female,38.7,Normal,High,No,No,Non-Smoker,3.2,Never,0
+441,71,Female,36.3,Elevated,Normal,No,No,Former Smoker,10,Occasionally,2
+442,25,Male,32.8,Elevated,Normal,No,No,Non-Smoker,8.5,Occasionally,8
+443,44,Male,30.9,Normal,Borderline,No,No,Former Smoker,6.1,Occasionally,6
+444,44,Female,26,Normal,Borderline,Yes,No,Former Smoker,0.4,Occasionally,6
+445,51,Male,21.9,Elevated,Normal,No,No,Non-Smoker,9,Occasionally,0
+446,38,Male,31.5,Normal,Normal,No,No,Non-Smoker,5.6,Frequent,6
+447,47,Male,25.3,Elevated,Normal,No,No,Former Smoker,8.7,Never,9
+448,50,Male,37.1,Normal,Normal,Yes,Yes,Non-Smoker,8.3,Never,6
+449,45,Male,39.9,High,Normal,No,No,Non-Smoker,8.3,Occasionally,3
+450,64,Male,34.7,Elevated,High,No,Yes,Former Smoker,7,Frequent,6
+451,50,Male,20.4,High,Normal,No,No,Non-Smoker,2.9,Never,7
+452,22,Male,24.7,Normal,Borderline,Yes,No,Non-Smoker,3.4,Never,2
+453,77,Male,20.8,Elevated,Normal,No,No,Non-Smoker,3.1,Never,9
+454,78,Male,32.5,Elevated,Normal,No,No,Non-Smoker,0.2,Never,1
+455,65,Female,35,Normal,Normal,No,No,Non-Smoker,5.8,Frequent,6
+456,36,Female,38.4,Normal,Normal,No,No,Non-Smoker,7,Occasionally,4
+457,21,Male,27.9,Normal,Borderline,No,No,Non-Smoker,8.5,Occasionally,4
+458,52,Female,37.9,Elevated,High,No,No,Non-Smoker,1.4,Occasionally,4
+459,66,Female,37.4,Elevated,Borderline,No,No,Non-Smoker,5.4,Occasionally,6
+460,34,Male,25.3,Normal,High,No,No,Non-Smoker,0.1,Never,8
+461,61,Male,37.2,Elevated,High,No,No,Non-Smoker,1,Never,7
+462,45,Male,26.6,Normal,Normal,No,No,Non-Smoker,0.5,Occasionally,5
+463,47,Female,24.9,Normal,Borderline,Yes,No,Non-Smoker,7.3,Never,6
+464,46,Female,32.5,High,Borderline,No,No,Non-Smoker,0.8,Occasionally,8
+465,63,Male,25.6,High,Normal,No,No,Former Smoker,7.2,Never,5
+466,70,Male,32,Elevated,Borderline,Yes,No,Smoker,2.5,Never,0
+467,23,Male,31.6,Normal,Normal,No,Yes,Non-Smoker,8.8,Never,3
+468,52,Female,30.6,Elevated,Normal,No,No,Non-Smoker,8.1,Occasionally,7
+469,77,Female,26.7,Normal,Borderline,No,No,Former Smoker,9.6,Never,6
+470,58,Female,30.3,Normal,Normal,Yes,No,Smoker,8.8,Frequent,2
+471,54,Female,31.3,Normal,Normal,No,No,Non-Smoker,9.3,Never,9
+472,41,Male,30.2,Elevated,High,No,No,Smoker,8.6,Occasionally,2
+473,46,Male,28.1,Elevated,Borderline,No,No,Non-Smoker,6.9,Frequent,2
+474,66,Male,18.8,Normal,Normal,No,No,Non-Smoker,1.7,Frequent,0
+475,63,Male,31.1,Elevated,Borderline,Yes,Yes,Non-Smoker,2.7,Frequent,9
+476,70,Female,22.1,High,Normal,No,No,Non-Smoker,2.1,Never,0
+477,48,Female,32.3,Normal,Normal,Yes,No,Former Smoker,6,Never,5
+478,52,Male,34.8,Elevated,High,No,No,Non-Smoker,5,Occasionally,0
+479,77,Male,29.3,High,Borderline,No,No,Smoker,8.7,Never,4
+480,50,Female,30.2,Normal,Normal,No,No,Non-Smoker,9.5,Never,3
+481,69,Male,39,Normal,Borderline,Yes,No,Former Smoker,4,Frequent,4
+482,78,Female,36.7,Elevated,High,No,No,Non-Smoker,5.1,Occasionally,6
+483,38,Male,38.2,Elevated,Normal,Yes,Yes,Former Smoker,9.7,Occasionally,5
+484,49,Male,36,High,Normal,No,No,Former Smoker,2.8,Frequent,8
+485,40,Male,20.8,Normal,Normal,No,No,Smoker,7.9,Occasionally,5
+486,50,Male,21.7,High,Borderline,No,No,Non-Smoker,2.3,Occasionally,8
+487,20,Male,29.8,Normal,Borderline,No,No,Non-Smoker,6.8,Occasionally,3
+488,35,Male,23.8,Normal,Borderline,Yes,No,Non-Smoker,2.5,Never,0
+489,42,Male,28.7,Elevated,High,No,Yes,Non-Smoker,8.8,Never,0
+490,59,Female,27,Normal,Borderline,Yes,No,Non-Smoker,5.6,Frequent,9
+491,48,Female,30.3,Normal,Normal,Yes,No,Former Smoker,1.9,Frequent,6
+492,71,Female,34.6,Normal,Normal,No,No,Non-Smoker,2.2,Frequent,2
+493,75,Female,33.9,Normal,Normal,Yes,No,Former Smoker,4.9,Occasionally,1
+494,20,Female,29.7,Normal,Normal,Yes,No,Smoker,9.6,Frequent,5
+495,57,Male,36.2,High,Borderline,No,No,Smoker,7.7,Never,5
+496,63,Male,27.8,Normal,High,No,No,Former Smoker,4.9,Never,6
+497,41,Female,37.8,Elevated,Normal,Yes,No,Non-Smoker,3.4,Occasionally,4
+498,67,Male,20,Elevated,Normal,No,No,Non-Smoker,5.5,Occasionally,7
+499,49,Female,39,High,Borderline,No,No,Non-Smoker,7.5,Never,6
+500,64,Female,32.6,Normal,Normal,No,No,Non-Smoker,7.8,Never,1
+501,39,Male,26.7,High,Normal,No,Yes,Non-Smoker,3.2,Never,0
+502,40,Male,22.7,Elevated,Normal,Yes,No,Non-Smoker,7.2,Occasionally,8
+503,19,Male,28.8,Elevated,Normal,No,No,Non-Smoker,6.6,Occasionally,4
+504,44,Female,22.7,Elevated,High,No,No,Former Smoker,9.6,Occasionally,4
+505,59,Male,22.1,High,Normal,No,No,Non-Smoker,9.3,Never,9
+506,19,Female,31.8,Normal,Normal,No,No,Former Smoker,7.9,Occasionally,3
+507,43,Female,29.7,Elevated,Normal,No,No,Non-Smoker,7.2,Occasionally,1
+508,34,Female,32.9,Elevated,High,No,Yes,Non-Smoker,2.7,Occasionally,4
+509,57,Male,38.5,Elevated,Normal,No,No,Smoker,8.5,Never,1
+510,50,Male,29.9,High,Normal,No,No,Non-Smoker,4.3,Occasionally,6
+511,26,Female,31,Normal,Normal,Yes,No,Former Smoker,2.7,Frequent,8
+512,60,Male,20.4,High,Normal,Yes,No,Non-Smoker,3.8,Never,8
+513,71,Male,33.9,Normal,Normal,No,No,Smoker,8.4,Never,5
+514,65,Male,27.1,Normal,Borderline,No,No,Non-Smoker,1.5,Occasionally,0
+515,56,Female,39.5,Normal,Normal,No,No,Non-Smoker,4.6,Occasionally,5
+516,46,Female,36.2,Normal,Normal,No,No,Former Smoker,4.9,Never,4
+517,59,Male,29.7,Elevated,Borderline,No,No,Former Smoker,0.4,Never,3
+518,72,Female,21.1,Normal,Normal,Yes,No,Non-Smoker,2,Never,5
+519,43,Male,37,Normal,Normal,No,No,Smoker,8.3,Frequent,5
+520,52,Male,35.7,High,Normal,Yes,No,Non-Smoker,8.3,Occasionally,5
+521,67,Male,22.5,High,High,No,No,Non-Smoker,2.9,Occasionally,1
+522,42,Male,24.8,High,Normal,No,No,Former Smoker,8.7,Frequent,6
+523,41,Female,35.6,High,High,No,No,Non-Smoker,7.7,Never,3
+524,30,Female,22.5,Elevated,Borderline,No,No,Non-Smoker,4.2,Frequent,8
+525,77,Female,38.2,Normal,Normal,Yes,No,Non-Smoker,7.5,Occasionally,9
+526,75,Male,27.6,Normal,High,No,No,Former Smoker,9.6,Never,1
+527,24,Male,20.4,Elevated,Normal,No,No,Non-Smoker,4.6,Frequent,4
+528,74,Male,36,Normal,Normal,No,No,Non-Smoker,2.4,Frequent,3
+529,53,Female,26.5,Elevated,Borderline,No,No,Non-Smoker,9.4,Frequent,8
+530,62,Male,29.8,Normal,Borderline,No,No,Non-Smoker,6,Never,3
+531,37,Female,20.9,Normal,Borderline,No,No,Non-Smoker,1.1,Frequent,7
+532,18,Female,18.6,Elevated,Normal,No,No,Non-Smoker,5.7,Frequent,7
+533,25,Female,32.2,Elevated,Normal,No,No,Non-Smoker,5,Never,5
+534,63,Female,29.6,Elevated,Borderline,No,No,Non-Smoker,8.6,Never,5
+535,33,Female,31.3,Elevated,Normal,No,No,Non-Smoker,5.3,Never,7
+536,31,Female,35.6,Normal,Normal,No,No,Smoker,2.6,Frequent,9
+537,29,Male,32.4,Normal,Normal,No,No,Non-Smoker,6.8,Occasionally,8
+538,68,Male,22.3,High,Normal,No,No,Non-Smoker,5.4,Never,4
+539,40,Female,26.3,Elevated,High,No,No,Smoker,2.3,Never,0
+540,32,Female,38,Normal,Normal,Yes,No,Non-Smoker,5.7,Never,0
+541,45,Male,35.1,High,High,No,No,Former Smoker,8.2,Occasionally,1
+542,51,Female,30.5,Normal,Normal,No,No,Non-Smoker,0.3,Occasionally,9
+543,19,Female,24,Normal,Borderline,Yes,No,Non-Smoker,6.3,Frequent,9
+544,49,Male,25,Normal,Normal,No,No,Non-Smoker,3.5,Occasionally,4
+545,40,Female,34.2,Elevated,Normal,No,No,Non-Smoker,2.9,Occasionally,3
+546,39,Female,36.8,Elevated,Normal,Yes,No,Smoker,3.9,Never,0
+547,68,Female,32.9,Normal,Normal,Yes,No,Former Smoker,3.4,Never,3
+548,42,Male,35.9,High,Normal,Yes,Yes,Smoker,8.3,Occasionally,3
+549,75,Male,35,Normal,High,No,No,Non-Smoker,2.7,Never,9
+550,79,Male,21.7,Normal,Borderline,Yes,No,Non-Smoker,7.3,Never,3
+551,78,Female,27.6,Normal,Normal,No,No,Non-Smoker,0.9,Frequent,0
+552,39,Female,21.8,Normal,Normal,No,Yes,Non-Smoker,9.5,Occasionally,8
+553,75,Male,23.6,Normal,Normal,No,Yes,Non-Smoker,6.2,Never,2
+554,75,Female,37.2,Elevated,Normal,No,No,Smoker,7.1,Never,3
+555,39,Female,28.7,High,Borderline,Yes,No,Non-Smoker,3,Never,4
+556,66,Female,30,Elevated,High,No,No,Former Smoker,4.1,Frequent,6
+557,69,Female,22.3,Normal,Normal,No,No,Former Smoker,2.2,Never,5
+558,59,Female,25.2,Normal,Normal,No,No,Smoker,9.3,Never,4
+559,23,Male,23.5,Normal,Normal,No,No,Non-Smoker,4.9,Occasionally,7
+560,32,Female,22.9,Normal,Borderline,No,No,Former Smoker,6.3,Never,0
+561,71,Male,32.2,Elevated,Normal,Yes,No,Non-Smoker,7.3,Never,6
+562,60,Female,24,Normal,Borderline,No,No,Non-Smoker,3.7,Never,5
+563,77,Male,32.1,Elevated,Borderline,No,Yes,Former Smoker,7.2,Never,4
+564,54,Female,19.8,High,Normal,No,Yes,Former Smoker,6.8,Never,6
+565,50,Male,21.5,Normal,Borderline,Yes,No,Non-Smoker,7.1,Never,2
+566,25,Female,24.4,High,Normal,Yes,No,Non-Smoker,4.9,Frequent,0
+567,70,Male,31.3,Elevated,Borderline,No,No,Non-Smoker,3.8,Never,8
+568,77,Female,33,Elevated,Normal,Yes,No,Non-Smoker,2.2,Occasionally,1
+569,61,Male,28,Elevated,Normal,Yes,No,Non-Smoker,8.2,Occasionally,9
+570,61,Female,28.1,Normal,High,No,No,Non-Smoker,6.1,Occasionally,2
+571,22,Male,34.1,Normal,High,No,No,Non-Smoker,4.4,Never,7
+572,56,Male,18.8,Normal,Borderline,No,No,Smoker,9.4,Never,9
+573,21,Female,25.8,Normal,Normal,No,No,Non-Smoker,0.5,Occasionally,8
+574,23,Female,36.1,Elevated,Borderline,No,No,Non-Smoker,8.5,Occasionally,2
+575,62,Male,31.5,Normal,Normal,Yes,No,Non-Smoker,10,Occasionally,5
+576,49,Female,25.8,High,High,No,No,Non-Smoker,8.9,Never,6
+577,69,Male,38,Elevated,Normal,No,No,Former Smoker,8.1,Frequent,0
+578,47,Male,35.1,Normal,High,No,No,Smoker,3.7,Never,6
+579,64,Male,24.2,Normal,High,No,No,Non-Smoker,2.3,Never,3
+580,52,Female,32.4,High,Borderline,Yes,No,Former Smoker,7.3,Occasionally,4
+581,72,Male,31.3,High,Normal,No,No,Non-Smoker,3,Never,7
+582,57,Male,27.1,Elevated,Normal,No,Yes,Non-Smoker,1.8,Occasionally,3
+583,69,Female,26.4,Normal,High,No,No,Former Smoker,7.9,Occasionally,3
+584,33,Female,25.9,Normal,Normal,No,No,Non-Smoker,3.1,Frequent,7
+585,30,Female,31.8,Normal,High,No,No,Non-Smoker,9.1,Frequent,4
+586,67,Female,28,Normal,Normal,No,Yes,Non-Smoker,8.4,Occasionally,5
+587,77,Male,36.4,Elevated,Normal,No,No,Non-Smoker,8.5,Occasionally,4
+588,59,Male,32.9,Elevated,High,Yes,No,Former Smoker,7.7,Never,0
+589,47,Male,20,Elevated,Borderline,No,No,Former Smoker,8.8,Occasionally,6
+590,36,Male,32.3,High,Normal,No,No,Non-Smoker,8.1,Never,5
+591,34,Female,24.3,Elevated,Normal,Yes,No,Smoker,6,Never,1
+592,73,Male,31.2,Normal,Normal,No,No,Smoker,3,Never,6
+593,36,Male,33.1,Normal,Borderline,No,No,Non-Smoker,8.9,Occasionally,5
+594,45,Female,23.5,High,Normal,No,No,Smoker,8.4,Occasionally,4
+595,75,Male,28.3,Normal,High,No,No,Non-Smoker,4.7,Frequent,7
+596,72,Male,22.6,High,High,Yes,No,Non-Smoker,0.4,Never,4
+597,43,Male,19.6,High,Normal,No,No,Non-Smoker,6.4,Frequent,1
+598,54,Male,26.6,Normal,Borderline,No,No,Non-Smoker,0.5,Occasionally,5
+599,43,Male,26.3,Elevated,Normal,No,No,Non-Smoker,9.3,Occasionally,0
+600,70,Male,39.9,High,Normal,No,No,Non-Smoker,9.6,Occasionally,4
+601,79,Female,28.1,Elevated,High,No,No,Non-Smoker,1.9,Never,5
+602,40,Female,25.7,High,Normal,No,No,Non-Smoker,6.8,Frequent,6
+603,26,Male,31,High,Normal,No,No,Non-Smoker,0.9,Occasionally,1
+604,29,Male,20.4,Normal,Normal,No,Yes,Non-Smoker,7.3,Frequent,0
+605,70,Female,39.2,Normal,Normal,Yes,No,Non-Smoker,3.5,Occasionally,5
+606,18,Male,32.2,High,Normal,No,No,Former Smoker,6.8,Frequent,2
+607,75,Male,34.7,Elevated,Borderline,No,No,Non-Smoker,3.7,Occasionally,4
+608,75,Male,22.2,Normal,Borderline,Yes,No,Smoker,1.5,Never,1
+609,18,Female,27.3,Normal,Borderline,No,No,Non-Smoker,4.1,Never,0
+610,64,Male,27.6,Elevated,Normal,No,No,Non-Smoker,1.1,Occasionally,0
+611,51,Female,36.2,High,Normal,No,No,Non-Smoker,5.8,Occasionally,3
+612,49,Male,18.5,High,Normal,No,No,Former Smoker,0.4,Never,9
+613,79,Female,25,Elevated,Normal,Yes,No,Non-Smoker,5.3,Frequent,1
+614,71,Female,39.6,Normal,Normal,Yes,No,Former Smoker,8.9,Occasionally,0
+615,65,Male,28.7,Normal,Normal,Yes,No,Former Smoker,8.4,Frequent,5
+616,42,Female,26.7,High,Normal,No,No,Smoker,8.8,Frequent,3
+617,57,Male,21.1,Normal,Normal,Yes,No,Non-Smoker,9.2,Occasionally,9
+618,62,Female,39.4,Normal,High,No,No,Non-Smoker,1,Frequent,6
+619,70,Male,18.9,Normal,High,No,No,Non-Smoker,1.3,Occasionally,5
+620,18,Male,34.3,Elevated,Borderline,No,No,Non-Smoker,5.6,Frequent,4
+621,33,Female,35,High,High,No,No,Non-Smoker,8.9,Never,9
+622,78,Male,23.7,Normal,Borderline,No,No,Non-Smoker,9.7,Never,1
+623,56,Male,32.9,Normal,Normal,No,No,Non-Smoker,0.5,Occasionally,4
+624,22,Female,20.5,Elevated,Normal,No,No,Non-Smoker,3.6,Occasionally,8
+625,39,Male,24,High,Borderline,No,No,Smoker,2.1,Occasionally,8
+626,46,Male,35.4,Normal,Borderline,No,No,Non-Smoker,7.6,Occasionally,1
+627,72,Female,37.1,Normal,Borderline,Yes,No,Non-Smoker,6.4,Never,6
+628,20,Female,31.6,Normal,Borderline,No,No,Non-Smoker,1.2,Frequent,9
+629,29,Male,29.4,High,Normal,No,No,Smoker,4.8,Occasionally,3
+630,43,Male,21.9,Normal,Borderline,No,No,Former Smoker,6.9,Occasionally,2
+631,33,Female,19.9,Normal,High,No,No,Non-Smoker,7.8,Occasionally,0
+632,68,Female,21,Elevated,Normal,No,No,Smoker,0.2,Occasionally,2
+633,54,Male,23.4,Elevated,Borderline,No,No,Non-Smoker,8.9,Frequent,8
+634,39,Female,25.8,Normal,Normal,No,No,Non-Smoker,5.7,Occasionally,8
+635,74,Male,26.7,High,Borderline,Yes,No,Non-Smoker,8.1,Never,6
+636,46,Male,25.9,Normal,Borderline,Yes,No,Non-Smoker,8.1,Occasionally,2
+637,31,Male,23.6,Elevated,Normal,No,No,Non-Smoker,1.9,Occasionally,2
+638,45,Male,29.5,Normal,Borderline,No,No,Smoker,1.1,Frequent,3
+639,22,Male,36.2,Elevated,Normal,No,No,Smoker,7.2,Never,6
+640,64,Female,24.5,Normal,Borderline,No,Yes,Non-Smoker,1.6,Frequent,6
+641,66,Female,38.8,High,Normal,No,No,Non-Smoker,8.5,Occasionally,1
+642,47,Female,37.3,Elevated,Borderline,No,No,Non-Smoker,7.3,Frequent,4
+643,63,Female,22,Elevated,Normal,No,No,Former Smoker,8.4,Never,6
+644,79,Male,35.4,Elevated,Borderline,No,No,Non-Smoker,3,Frequent,6
+645,69,Male,30.9,Elevated,Normal,No,No,Non-Smoker,3.2,Frequent,5
+646,22,Male,30.7,Normal,High,No,No,Non-Smoker,6.7,Frequent,9
+647,29,Male,26.9,Normal,High,No,Yes,Smoker,0.3,Never,9
+648,33,Female,29.3,High,High,No,No,Former Smoker,7.3,Never,7
+649,43,Male,27,Normal,Borderline,No,No,Non-Smoker,8.4,Occasionally,2
+650,43,Male,30.1,Elevated,Borderline,No,No,Non-Smoker,4.2,Never,0
+651,65,Female,32,High,Normal,No,No,Non-Smoker,7.6,Never,2
+652,38,Female,33,Normal,Normal,Yes,No,Non-Smoker,1.7,Never,1
+653,56,Female,29.9,Elevated,Normal,No,No,Former Smoker,3.2,Occasionally,1
+654,53,Female,34,Normal,Borderline,Yes,Yes,Smoker,9.7,Occasionally,1
+655,50,Male,21.5,Elevated,High,No,No,Former Smoker,9.9,Never,4
+656,79,Male,23.1,Normal,Normal,No,Yes,Non-Smoker,5.1,Never,0
+657,47,Female,36.1,Normal,High,No,No,Non-Smoker,9.3,Occasionally,9
+658,54,Male,25.4,Elevated,Borderline,Yes,No,Non-Smoker,5.2,Occasionally,3
+659,40,Male,19,High,Borderline,No,No,Former Smoker,2.9,Never,9
+660,75,Male,21.8,Elevated,Normal,No,No,Smoker,2.7,Never,4
+661,27,Female,23.3,Elevated,Normal,No,No,Non-Smoker,9.3,Frequent,1
+662,71,Male,39.1,Normal,Normal,No,No,Former Smoker,1.7,Frequent,4
+663,22,Female,30.8,Elevated,Borderline,No,Yes,Non-Smoker,5.8,Frequent,9
+664,53,Male,38.6,Normal,Normal,No,No,Smoker,5.6,Frequent,3
+665,51,Male,30.9,High,Normal,Yes,Yes,Non-Smoker,7.4,Never,7
+666,69,Male,28.8,High,High,No,No,Non-Smoker,5,Occasionally,0
+667,48,Female,25.2,Elevated,Borderline,No,No,Non-Smoker,2.7,Occasionally,4
+668,27,Male,31.5,High,High,No,No,Non-Smoker,1.7,Occasionally,9
+669,75,Female,21.5,Normal,Normal,No,No,Non-Smoker,6.2,Never,0
+670,36,Female,37.8,Elevated,Normal,No,No,Non-Smoker,7.2,Occasionally,9
+671,75,Female,36.3,Normal,Borderline,Yes,No,Non-Smoker,5.7,Occasionally,9
+672,49,Male,25.3,High,Normal,No,No,Former Smoker,7.4,Never,3
+673,18,Male,39,Normal,Normal,No,No,Non-Smoker,1.4,Occasionally,7
+674,73,Male,36.2,Elevated,Normal,Yes,No,Non-Smoker,8.8,Never,0
+675,22,Male,32.8,High,Normal,Yes,No,Non-Smoker,5.8,Never,1
+676,62,Female,21.1,Normal,Normal,No,No,Non-Smoker,1.3,Never,0
+677,21,Female,28.8,Normal,Normal,Yes,No,Non-Smoker,4.6,Never,6
+678,33,Female,29.4,Elevated,Normal,Yes,No,Non-Smoker,8.4,Never,1
+679,41,Male,23.5,Normal,Normal,No,No,Non-Smoker,9,Frequent,0
+680,33,Female,20.2,Normal,Borderline,Yes,Yes,Non-Smoker,2.6,Occasionally,5
+681,72,Male,35.2,Normal,Normal,No,No,Non-Smoker,7.1,Occasionally,5
+682,19,Female,21.1,Normal,Borderline,No,No,Smoker,1,Never,9
+683,66,Male,31.3,High,Normal,No,Yes,Smoker,0.3,Occasionally,1
+684,45,Male,38.6,Elevated,Normal,No,No,Non-Smoker,5.6,Occasionally,0
+685,49,Female,37.3,Normal,Borderline,No,No,Non-Smoker,6.9,Occasionally,9
+686,44,Female,24.5,Normal,Normal,No,No,Former Smoker,8,Occasionally,2
+687,37,Female,36.8,Normal,Normal,No,No,Non-Smoker,3.4,Frequent,9
+688,41,Female,18.5,Normal,Normal,No,No,Non-Smoker,0.1,Frequent,4
+689,29,Male,18.9,Normal,High,No,No,Non-Smoker,4.8,Occasionally,5
+690,67,Female,31.5,Normal,Normal,No,No,Non-Smoker,0.2,Never,2
+691,52,Female,26.3,Normal,Normal,No,No,Non-Smoker,0.9,Occasionally,8
+692,77,Female,26.8,Elevated,Borderline,Yes,No,Non-Smoker,3.3,Occasionally,4
+693,50,Male,30.6,Normal,Normal,No,No,Non-Smoker,4.4,Occasionally,1
+694,50,Male,22.6,Elevated,Normal,Yes,No,Non-Smoker,2.8,Frequent,9
+695,78,Female,23.1,Elevated,Normal,No,No,Smoker,5.8,Occasionally,5
+696,68,Male,28.9,Elevated,Borderline,No,No,Smoker,0.6,Frequent,7
+697,60,Female,34.7,Elevated,Normal,No,No,Smoker,1.4,Never,5
+698,54,Male,31.8,Elevated,Normal,No,Yes,Non-Smoker,7,Never,3
+699,29,Male,24.9,High,Normal,No,No,Non-Smoker,1.4,Never,5
+700,20,Male,27.8,Elevated,Borderline,No,No,Non-Smoker,6.4,Frequent,7
+701,18,Male,22.2,Elevated,Normal,Yes,No,Non-Smoker,0.5,Frequent,7
+702,50,Female,20.1,High,High,No,No,Former Smoker,4.1,Occasionally,9
+703,57,Female,35.3,Elevated,Normal,No,No,Former Smoker,1.8,Occasionally,1
+704,27,Female,24.2,Normal,High,No,No,Non-Smoker,1.1,Occasionally,7
+705,60,Male,22.3,Normal,High,No,No,Smoker,5.7,Frequent,5
+706,61,Female,33.4,Normal,Normal,Yes,No,Non-Smoker,9.3,Frequent,1
+707,46,Female,31.8,High,Normal,No,No,Non-Smoker,0.5,Occasionally,0
+708,30,Female,32.1,Elevated,Normal,No,No,Smoker,4.2,Occasionally,5
+709,29,Male,23.4,High,Normal,No,No,Non-Smoker,7.1,Never,6
+710,48,Male,23.5,Elevated,Borderline,No,Yes,Former Smoker,4.6,Occasionally,9
+711,63,Male,23.2,Normal,Normal,No,No,Non-Smoker,8.1,Occasionally,4
+712,19,Female,22.2,Normal,Normal,No,No,Smoker,1.8,Never,9
+713,78,Female,32.6,Elevated,Normal,No,No,Smoker,9.6,Frequent,7
+714,68,Female,36.7,Elevated,High,No,No,Non-Smoker,3.9,Occasionally,8
+715,67,Male,34.1,High,Normal,No,No,Smoker,3.4,Frequent,3
+716,52,Male,35.5,Normal,Normal,No,No,Non-Smoker,8.7,Never,6
+717,40,Female,27.2,Elevated,Normal,No,Yes,Non-Smoker,5.6,Occasionally,7
+718,34,Male,32.6,Elevated,High,No,Yes,Smoker,5.2,Occasionally,5
+719,43,Male,26.1,Elevated,Borderline,Yes,No,Former Smoker,7.3,Never,1
+720,25,Male,29.8,Elevated,Normal,No,No,Non-Smoker,5.8,Occasionally,6
+721,46,Male,28.9,Elevated,Normal,No,No,Smoker,1.6,Never,8
+722,43,Female,22.3,Normal,Normal,No,No,Non-Smoker,6.7,Never,4
+723,27,Male,26.8,Elevated,Normal,No,No,Non-Smoker,1.3,Never,1
+724,43,Male,39.2,Elevated,High,No,No,Non-Smoker,8.1,Never,3
+725,79,Male,23.8,High,Borderline,Yes,No,Former Smoker,9.9,Occasionally,2
+726,51,Male,21.4,High,Normal,No,No,Non-Smoker,3.8,Never,3
+727,68,Female,27.5,Normal,High,No,Yes,Former Smoker,4.4,Occasionally,9
+728,58,Female,35.5,Normal,Normal,No,No,Non-Smoker,0.5,Occasionally,6
+729,24,Male,31,High,Borderline,No,No,Non-Smoker,0.1,Occasionally,9
+730,21,Male,33.1,Elevated,High,Yes,No,Former Smoker,9.2,Frequent,7
+731,75,Male,22.6,High,Normal,No,No,Non-Smoker,1.3,Occasionally,0
+732,70,Male,31.8,Normal,Borderline,No,No,Smoker,4.5,Occasionally,7
+733,67,Male,25.5,Elevated,Normal,No,No,Non-Smoker,8.2,Never,4
+734,62,Male,36.4,High,Normal,No,No,Non-Smoker,8.9,Occasionally,6
+735,28,Female,32,High,Normal,No,No,Smoker,5.2,Frequent,0
+736,46,Male,22.8,Normal,Normal,No,No,Former Smoker,5.7,Never,1
+737,73,Female,19.9,Elevated,Borderline,No,No,Smoker,6.7,Never,0
+738,53,Female,19.4,Elevated,High,Yes,No,Smoker,9.6,Never,4
+739,42,Male,26.5,Normal,Borderline,No,No,Former Smoker,6,Occasionally,5
+740,38,Female,24.2,Elevated,High,Yes,Yes,Non-Smoker,5.6,Occasionally,9
+741,78,Female,32.4,Elevated,Borderline,No,No,Smoker,0.1,Occasionally,8
+742,74,Female,29.2,High,Normal,No,Yes,Non-Smoker,0.8,Never,7
+743,53,Female,24.2,Normal,Normal,No,No,Non-Smoker,5.8,Frequent,6
+744,27,Female,21.7,Normal,Normal,No,No,Smoker,9.4,Never,4
+745,54,Female,21.2,Normal,Borderline,No,No,Former Smoker,8.7,Never,2
+746,26,Male,37.1,Normal,High,No,No,Non-Smoker,9.8,Occasionally,8
+747,41,Female,23.7,Normal,Normal,No,No,Non-Smoker,5.3,Never,4
+748,52,Female,32.5,Elevated,Borderline,No,No,Non-Smoker,7.9,Never,2
+749,66,Female,35.9,Normal,Borderline,No,No,Non-Smoker,8.4,Never,2
+750,52,Male,31.7,High,Normal,No,No,Non-Smoker,6.5,Occasionally,2
+751,65,Female,37,High,Normal,No,Yes,Non-Smoker,3.4,Frequent,5
+752,53,Male,26.9,Elevated,Normal,No,No,Non-Smoker,4.7,Frequent,0
+753,35,Female,39.1,High,Normal,No,No,Former Smoker,8.6,Occasionally,3
+754,66,Male,21.4,Elevated,Normal,Yes,No,Smoker,3,Never,7
+755,56,Male,20.7,Elevated,Normal,Yes,No,Non-Smoker,9.2,Occasionally,2
+756,49,Female,32.7,Normal,Normal,No,No,Former Smoker,2.3,Occasionally,4
+757,41,Female,38.8,Normal,Normal,Yes,No,Smoker,7.5,Never,1
+758,40,Male,35.9,Elevated,High,No,No,Smoker,6.3,Never,1
+759,79,Female,20.1,High,Normal,No,Yes,Non-Smoker,7.5,Never,6
+760,49,Male,24.5,Normal,Borderline,Yes,No,Non-Smoker,4.4,Occasionally,9
+761,54,Male,38.5,High,Normal,No,No,Smoker,9.3,Never,2
+762,29,Male,23.9,Elevated,Normal,Yes,No,Non-Smoker,6.3,Frequent,4
+763,66,Male,35.3,Normal,High,No,No,Non-Smoker,2.9,Never,2
+764,72,Male,36.2,High,Normal,Yes,No,Non-Smoker,6.4,Never,5
+765,30,Female,29.2,Elevated,Normal,No,Yes,Non-Smoker,2.9,Occasionally,9
+766,40,Male,26.8,Normal,Borderline,No,No,Non-Smoker,2.9,Occasionally,2
+767,42,Male,28.2,Elevated,Normal,No,No,Non-Smoker,4,Never,7
+768,52,Female,23.4,Normal,Normal,No,No,Former Smoker,8.5,Never,1
+769,58,Male,37.6,Elevated,Normal,No,Yes,Former Smoker,5,Never,2
+770,47,Female,28.2,Normal,Normal,No,No,Non-Smoker,6.8,Never,7
+771,34,Female,37.5,Normal,Normal,No,Yes,Non-Smoker,3.9,Never,7
+772,66,Female,20.8,High,Normal,No,No,Non-Smoker,2.6,Frequent,0
+773,79,Male,39.7,Elevated,High,No,No,Smoker,9.5,Occasionally,7
+774,37,Male,28,Normal,Borderline,No,No,Smoker,6,Occasionally,9
+775,65,Male,19.5,Normal,Borderline,No,Yes,Non-Smoker,9.3,Never,1
+776,42,Female,19.3,High,Borderline,No,No,Non-Smoker,2,Never,6
+777,39,Male,34.5,Normal,High,No,No,Non-Smoker,1.5,Never,5
+778,30,Female,32.7,Normal,Normal,No,No,Former Smoker,8.6,Occasionally,1
+779,76,Male,35.7,Normal,High,No,No,Smoker,6.8,Occasionally,4
+780,36,Female,20.8,Normal,Borderline,No,Yes,Smoker,1.9,Never,6
+781,66,Male,19.3,High,Borderline,No,No,Smoker,2.7,Occasionally,7
+782,53,Male,29.4,Elevated,Normal,No,No,Non-Smoker,8,Occasionally,2
+783,29,Male,26.8,Normal,Normal,Yes,No,Non-Smoker,4.5,Never,0
+784,78,Female,28.4,Elevated,Normal,No,No,Non-Smoker,6.7,Never,6
+785,58,Female,39.8,Normal,Borderline,Yes,No,Non-Smoker,3.2,Occasionally,4
+786,36,Male,39.4,High,Normal,No,No,Non-Smoker,3.8,Occasionally,4
+787,29,Male,38.8,High,Borderline,Yes,Yes,Former Smoker,9.9,Never,6
+788,26,Female,35.4,Normal,Normal,Yes,No,Former Smoker,2.5,Never,0
+789,24,Female,26.1,High,Normal,No,No,Former Smoker,5.1,Occasionally,7
+790,45,Female,27.4,Elevated,Normal,No,No,Non-Smoker,8.4,Never,9
+791,31,Male,30.3,Normal,Normal,Yes,No,Smoker,2.4,Occasionally,4
+792,48,Female,36.4,Normal,Normal,No,No,Smoker,4.2,Occasionally,7
+793,69,Male,20,Normal,Normal,No,No,Smoker,6.2,Never,9
+794,36,Female,27.6,Elevated,High,No,Yes,Non-Smoker,4.8,Never,9
+795,75,Male,20.3,High,Normal,Yes,Yes,Former Smoker,4.6,Occasionally,4
+796,64,Female,29.6,Elevated,Normal,No,No,Non-Smoker,3.6,Never,6
+797,33,Female,37.8,High,Borderline,No,No,Smoker,5.9,Never,9
+798,70,Female,35.3,Elevated,High,Yes,No,Non-Smoker,6.2,Occasionally,2
+799,22,Female,23.4,High,Borderline,No,No,Former Smoker,6.5,Never,1
+800,52,Female,39.5,Elevated,Normal,No,No,Non-Smoker,0.7,Occasionally,5
+801,29,Male,32.8,Normal,High,No,No,Former Smoker,6.3,Never,4
+802,42,Female,18.7,Elevated,Borderline,No,No,Former Smoker,9.5,Occasionally,8
+803,69,Female,24,High,Normal,No,Yes,Former Smoker,5.4,Never,9
+804,76,Female,24.1,Normal,Normal,No,No,Non-Smoker,7.2,Frequent,3
+805,38,Male,20,High,Normal,No,No,Non-Smoker,5.6,Occasionally,2
+806,53,Female,39.1,Normal,Normal,No,No,Non-Smoker,8.5,Never,8
+807,70,Male,28.8,Elevated,Borderline,No,No,Smoker,9.3,Occasionally,7
+808,40,Female,37.8,High,Normal,No,No,Non-Smoker,1.8,Never,5
+809,33,Female,25.4,Normal,High,Yes,No,Smoker,4.4,Occasionally,0
+810,74,Male,21.2,Normal,Normal,No,No,Former Smoker,3.9,Frequent,9
+811,56,Female,28.7,Normal,Normal,No,No,Non-Smoker,4.1,Occasionally,0
+812,62,Male,21,High,Normal,No,Yes,Former Smoker,1.3,Never,5
+813,70,Male,28.9,Normal,Normal,No,No,Non-Smoker,8.1,Occasionally,2
+814,59,Female,38.3,High,Borderline,No,No,Non-Smoker,0.4,Never,2
+815,75,Male,29.7,Normal,Borderline,Yes,No,Former Smoker,5.3,Occasionally,5
+816,56,Female,31.8,High,Normal,No,No,Non-Smoker,6.6,Occasionally,2
+817,31,Female,21.9,High,Normal,No,No,Non-Smoker,2.1,Never,9
+818,48,Male,19.4,Normal,Normal,No,No,Smoker,9.1,Never,5
+819,75,Male,20.9,Elevated,Borderline,Yes,No,Non-Smoker,8.4,Occasionally,4
+820,22,Male,31.4,Normal,Normal,No,No,Non-Smoker,4.7,Occasionally,3
+821,52,Male,20.5,Elevated,Normal,No,No,Non-Smoker,4.1,Never,7
+822,40,Female,26.6,Normal,Borderline,No,No,Non-Smoker,2.4,Never,1
+823,46,Female,30.3,Normal,High,No,No,Non-Smoker,7.3,Occasionally,6
+824,60,Male,26.9,Normal,Normal,No,Yes,Non-Smoker,1.3,Never,3
+825,28,Female,22,Normal,Normal,No,No,Non-Smoker,6.8,Never,1
+826,35,Female,24.4,Normal,Borderline,No,No,Non-Smoker,8.4,Never,6
+827,64,Female,38.5,Elevated,Borderline,Yes,No,Former Smoker,2.3,Never,0
+828,29,Female,33,High,Normal,No,No,Non-Smoker,8.7,Occasionally,3
+829,26,Male,29.2,Normal,High,No,No,Non-Smoker,0.3,Frequent,8
+830,27,Male,18.8,Elevated,Borderline,No,No,Non-Smoker,9.1,Occasionally,3
+831,75,Female,39.8,Normal,Normal,No,No,Former Smoker,1.2,Never,2
+832,61,Male,32.9,High,Normal,No,No,Non-Smoker,6.5,Occasionally,9
+833,34,Male,25.3,High,Normal,No,No,Non-Smoker,2.5,Occasionally,9
+834,78,Male,37.4,High,Borderline,No,No,Non-Smoker,8.4,Never,1
+835,55,Female,24.1,High,Normal,No,No,Non-Smoker,5.1,Frequent,2
+836,24,Female,30.2,Normal,Borderline,No,No,Smoker,1.4,Occasionally,0
+837,63,Female,32.2,High,Borderline,No,Yes,Non-Smoker,5.7,Frequent,9
+838,30,Male,23.3,Elevated,Normal,No,No,Non-Smoker,4.1,Occasionally,7
+839,57,Female,39.5,Normal,Borderline,No,No,Former Smoker,6.6,Occasionally,0
+840,59,Female,34.6,High,High,No,No,Non-Smoker,8.8,Never,2
+841,26,Male,30.5,Normal,Normal,No,No,Non-Smoker,4.1,Occasionally,2
+842,67,Female,22.4,Elevated,Normal,No,No,Non-Smoker,2.9,Never,1
+843,44,Female,19.7,Normal,Normal,No,No,Former Smoker,0.1,Frequent,4
+844,75,Male,25.4,Normal,High,No,No,Former Smoker,5.7,Occasionally,9
+845,19,Male,34.7,Elevated,High,No,No,Non-Smoker,4,Frequent,2
+846,22,Male,24.3,Elevated,Normal,No,No,Non-Smoker,3.7,Occasionally,2
+847,46,Female,30.1,Normal,Borderline,No,No,Non-Smoker,1.8,Frequent,7
+848,54,Female,34.2,Normal,Normal,No,No,Non-Smoker,4.3,Never,3
+849,55,Female,20.8,High,Normal,No,No,Non-Smoker,9.8,Occasionally,3
+850,36,Male,33.2,Normal,Normal,No,No,Smoker,3,Occasionally,2
+851,25,Male,20.5,Normal,Normal,No,No,Non-Smoker,6,Occasionally,0
+852,65,Female,39.3,High,Normal,No,No,Non-Smoker,7.8,Occasionally,7
+853,62,Female,29,High,Normal,No,No,Non-Smoker,7.5,Never,0
+854,18,Male,21.7,Normal,Normal,No,Yes,Non-Smoker,3.3,Never,6
+855,39,Male,25.9,Elevated,High,No,No,Non-Smoker,6.1,Frequent,4
+856,69,Male,27.4,High,Normal,No,No,Non-Smoker,8.7,Occasionally,3
+857,34,Male,34.8,High,Normal,No,No,Non-Smoker,0.2,Never,3
+858,24,Female,34.5,Elevated,Normal,No,Yes,Smoker,4.4,Occasionally,7
+859,42,Male,31.7,Normal,Borderline,No,No,Non-Smoker,2.2,Frequent,5
+860,62,Female,20.8,Normal,Normal,No,Yes,Non-Smoker,3.9,Never,0
+861,21,Female,21.8,Normal,Normal,No,No,Smoker,4.2,Frequent,9
+862,53,Female,20.5,Elevated,High,Yes,Yes,Smoker,7.5,Frequent,7
+863,23,Male,30.9,Normal,Normal,No,No,Smoker,0.9,Frequent,1
+864,77,Male,37.4,Elevated,Normal,No,No,Non-Smoker,5.1,Frequent,5
+865,48,Male,27.8,Normal,Borderline,No,No,Former Smoker,5.6,Occasionally,8
+866,36,Male,22,Normal,Normal,No,No,Smoker,4.9,Never,0
+867,78,Female,30.5,High,Normal,No,No,Former Smoker,7.3,Never,5
+868,61,Male,36,Normal,Normal,Yes,No,Smoker,3.8,Never,7
+869,71,Male,34.4,Normal,Normal,No,No,Former Smoker,9.4,Occasionally,9
+870,56,Female,37.5,High,Normal,Yes,No,Non-Smoker,4.8,Never,1
+871,44,Male,24.5,Normal,Normal,No,Yes,Non-Smoker,5.7,Never,4
+872,27,Female,22.7,Elevated,Normal,No,No,Non-Smoker,8.3,Never,5
+873,43,Female,37.4,Elevated,Normal,No,No,Non-Smoker,2.8,Never,4
+874,36,Female,32.6,Normal,Borderline,No,No,Former Smoker,0.8,Frequent,2
+875,56,Female,25.2,High,Normal,Yes,Yes,Non-Smoker,7.1,Never,3
+876,79,Female,34.5,Elevated,Normal,No,No,Non-Smoker,4.8,Occasionally,6
+877,20,Female,36,Normal,High,No,No,Smoker,9,Occasionally,3
+878,62,Female,31.7,Normal,Borderline,No,No,Smoker,9.8,Never,8
+879,30,Female,33.3,Normal,Normal,No,No,Former Smoker,4,Frequent,9
+880,67,Male,26.6,High,High,No,No,Non-Smoker,4.2,Occasionally,1
+881,45,Male,30.1,Normal,Normal,No,No,Non-Smoker,4.1,Never,4
+882,79,Male,29.8,Elevated,Normal,No,No,Non-Smoker,3.2,Never,7
+883,75,Male,36.7,Elevated,Borderline,No,No,Former Smoker,7.8,Never,4
+884,37,Female,36.6,Elevated,Normal,No,No,Non-Smoker,7.6,Never,9
+885,45,Male,36.4,Normal,Normal,No,No,Non-Smoker,4.8,Never,7
+886,25,Female,18.7,Normal,Normal,Yes,No,Non-Smoker,0.4,Occasionally,7
+887,78,Male,34.6,Elevated,Normal,No,No,Non-Smoker,3.1,Frequent,8
+888,58,Male,34.8,Normal,Normal,No,No,Non-Smoker,2.9,Occasionally,9
+889,56,Male,33.1,Normal,High,No,No,Former Smoker,8.1,Never,5
+890,18,Female,34.8,Normal,Normal,No,Yes,Non-Smoker,0.9,Never,3
+891,20,Male,36.6,Normal,High,No,No,Former Smoker,8.1,Occasionally,2
+892,30,Female,28.6,High,Normal,No,No,Smoker,6.7,Never,4
+893,45,Female,29.3,Normal,Borderline,Yes,No,Smoker,7.3,Never,5
+894,79,Male,21.2,Normal,Borderline,No,No,Former Smoker,4.3,Frequent,2
+895,74,Male,26.8,Normal,Borderline,No,No,Non-Smoker,6.8,Never,1
+896,77,Male,32.3,Elevated,Normal,No,No,Non-Smoker,6.1,Frequent,6
+897,66,Female,35.3,Elevated,Normal,No,Yes,Non-Smoker,7.7,Never,4
+898,42,Male,23.2,Normal,Normal,No,No,Non-Smoker,4.5,Frequent,8
+899,73,Female,21.5,Elevated,High,No,No,Non-Smoker,4.7,Occasionally,2
+900,50,Female,32.8,Elevated,Borderline,Yes,No,Smoker,6.4,Occasionally,7
+901,55,Male,18.5,High,Normal,Yes,No,Former Smoker,1.1,Never,5
+902,70,Male,22.3,High,Normal,No,No,Former Smoker,4.4,Frequent,3
+903,23,Female,19.1,Normal,Normal,No,No,Smoker,9.7,Frequent,8
+904,75,Female,22.1,Normal,Borderline,No,No,Former Smoker,0.4,Occasionally,4
+905,61,Female,22.4,Normal,Normal,Yes,No,Former Smoker,3.2,Occasionally,9
+906,62,Male,26.8,Normal,Borderline,No,No,Non-Smoker,3.1,Occasionally,5
+907,49,Female,27.2,High,High,No,No,Non-Smoker,6.3,Never,8
+908,62,Male,37.3,Normal,Normal,No,No,Non-Smoker,1.1,Occasionally,6
+909,78,Female,29.5,Normal,Normal,No,Yes,Non-Smoker,6.3,Frequent,4
+910,64,Female,34.1,Elevated,Normal,Yes,No,Non-Smoker,1,Never,1
+911,38,Male,20.7,Elevated,Normal,No,No,Former Smoker,0.9,Never,3
+912,33,Female,23.3,Normal,Normal,No,No,Non-Smoker,7.3,Occasionally,1
+913,71,Male,33.6,Normal,Normal,No,Yes,Non-Smoker,3.2,Occasionally,2
+914,38,Male,19.6,Normal,High,No,No,Smoker,9.8,Never,9
+915,28,Female,29,Elevated,Normal,No,No,Smoker,0.4,Never,2
+916,77,Male,31.4,Normal,Normal,Yes,No,Non-Smoker,4.5,Never,3
+917,54,Male,31.4,Normal,High,No,No,Smoker,1.1,Occasionally,5
+918,53,Female,19,Elevated,Borderline,No,No,Non-Smoker,3.5,Never,2
+919,52,Male,25.4,Normal,Normal,No,No,Non-Smoker,10,Occasionally,9
+920,36,Male,32.2,Elevated,Normal,No,No,Non-Smoker,8.9,Never,0
+921,37,Male,21.7,Normal,Normal,No,Yes,Non-Smoker,0.5,Occasionally,0
+922,74,Female,33.5,Normal,Borderline,No,No,Non-Smoker,5.6,Frequent,8
+923,35,Male,34.5,High,Borderline,No,No,Non-Smoker,6.5,Never,8
+924,64,Female,39.6,Elevated,Borderline,No,No,Smoker,2.1,Never,4
+925,58,Female,23,Normal,Normal,No,No,Smoker,1.5,Frequent,8
+926,66,Male,36.2,Elevated,Borderline,No,No,Non-Smoker,9,Never,6
+927,31,Male,29.7,Elevated,Normal,No,No,Former Smoker,9.7,Never,8
+928,32,Male,26.5,Elevated,Normal,No,No,Smoker,9.9,Frequent,6
+929,48,Female,21.1,Normal,Normal,No,No,Non-Smoker,7.9,Frequent,8
+930,18,Male,34.3,High,Normal,Yes,No,Former Smoker,6.6,Occasionally,1
+931,70,Male,23.6,Normal,Normal,No,No,Non-Smoker,3.5,Never,7
+932,71,Male,26.5,Normal,Borderline,No,No,Non-Smoker,1.7,Never,6
+933,71,Male,19.8,Normal,High,Yes,No,Former Smoker,0.8,Never,5
+934,20,Male,35.7,Normal,Normal,Yes,No,Smoker,6.9,Occasionally,4
+935,33,Female,35,High,Normal,No,Yes,Non-Smoker,7.8,Occasionally,3
+936,40,Female,34.3,Normal,Normal,No,No,Former Smoker,8.3,Frequent,6
+937,74,Male,24.9,Normal,Normal,No,No,Non-Smoker,9.1,Never,2
+938,28,Male,22.2,High,Normal,No,No,Non-Smoker,8.8,Occasionally,7
+939,29,Male,32.2,Normal,High,No,No,Non-Smoker,10,Never,1
+940,27,Male,29.2,Normal,Normal,No,No,Non-Smoker,2.4,Never,0
+941,49,Female,22.3,Normal,Normal,No,No,Non-Smoker,7.6,Occasionally,1
+942,33,Male,33.2,Normal,Normal,Yes,No,Non-Smoker,5.9,Never,8
+943,25,Female,39.8,Normal,High,No,No,Former Smoker,2.6,Occasionally,4
+944,55,Female,34.6,Elevated,Borderline,No,No,Former Smoker,9.8,Occasionally,7
+945,29,Male,34.4,Normal,High,Yes,Yes,Former Smoker,9,Frequent,2
+946,41,Female,38.9,Normal,Borderline,No,Yes,Non-Smoker,1.3,Occasionally,6
+947,45,Female,22.9,Elevated,Normal,Yes,No,Non-Smoker,0.3,Frequent,1
+948,70,Female,30.7,Elevated,Normal,No,No,Former Smoker,6.9,Occasionally,7
+949,25,Female,39.6,Normal,Borderline,No,No,Former Smoker,6,Never,6
+950,75,Male,22.1,Elevated,Normal,No,No,Non-Smoker,9.4,Occasionally,4
+951,45,Male,33.6,Normal,Normal,No,No,Smoker,2.3,Occasionally,3
+952,53,Female,31.1,Normal,Normal,No,No,Smoker,0.8,Occasionally,0
+953,43,Male,31.1,Elevated,Normal,No,No,Non-Smoker,2.6,Occasionally,4
+954,25,Male,33.5,Normal,Normal,No,No,Non-Smoker,0.2,Never,8
+955,75,Male,38.5,High,Normal,No,No,Former Smoker,0.4,Never,9
+956,77,Male,35.3,Normal,Borderline,No,No,Non-Smoker,9.1,Never,3
+957,67,Male,19.7,Elevated,Normal,No,No,Smoker,3.5,Occasionally,8
+958,45,Female,36.8,Normal,Normal,No,No,Non-Smoker,4.1,Occasionally,1
+959,45,Male,23.3,Elevated,Normal,No,No,Non-Smoker,0.2,Occasionally,3
+960,54,Male,26.6,Elevated,Normal,Yes,No,Smoker,2.7,Never,8
+961,58,Male,28.4,High,Normal,Yes,No,Non-Smoker,8,Never,3
+962,53,Male,28.8,Normal,Normal,No,No,Non-Smoker,6.2,Occasionally,4
+963,44,Female,27.9,Elevated,Normal,No,No,Non-Smoker,7.5,Occasionally,7
+964,71,Female,38.7,Elevated,Normal,No,No,Non-Smoker,4.5,Occasionally,0
+965,34,Female,33.7,Elevated,Normal,Yes,No,Non-Smoker,3.1,Occasionally,0
+966,26,Female,32.1,Elevated,Normal,No,No,Non-Smoker,4.8,Never,8
+967,50,Male,19.6,Elevated,Normal,No,No,Former Smoker,3.2,Occasionally,8
+968,70,Female,37.9,Normal,Normal,No,Yes,Smoker,8.4,Frequent,3
+969,37,Male,38.1,Normal,Normal,No,Yes,Former Smoker,3,Occasionally,1
+970,30,Male,35.3,Normal,Borderline,No,No,Non-Smoker,6.6,Occasionally,8
+971,45,Male,18.7,Normal,Normal,No,No,Former Smoker,1.4,Occasionally,3
+972,65,Male,19.7,High,Normal,No,No,Former Smoker,6.9,Occasionally,5
+973,46,Male,23.3,Elevated,Normal,No,No,Non-Smoker,9.1,Occasionally,0
+974,30,Female,21.3,High,Borderline,No,No,Non-Smoker,6.1,Occasionally,8
+975,63,Female,27.1,Normal,High,No,No,Smoker,5.6,Occasionally,4
+976,52,Female,38.3,High,Borderline,No,No,Former Smoker,9.6,Never,2
+977,78,Female,28.6,High,Borderline,Yes,No,Non-Smoker,6.3,Frequent,3
+978,23,Male,18.8,Elevated,Normal,Yes,No,Non-Smoker,2.6,Occasionally,0
+979,35,Female,24.6,Elevated,Borderline,No,No,Non-Smoker,2.9,Never,8
+980,68,Male,19.5,Normal,Normal,No,No,Former Smoker,7.1,Occasionally,7
+981,22,Female,19.3,High,Normal,No,No,Non-Smoker,7.4,Never,3
+982,64,Male,24.4,Elevated,Normal,Yes,No,Non-Smoker,3,Never,1
+983,42,Male,24.4,Normal,Normal,No,No,Non-Smoker,3.5,Never,8
+984,19,Female,35.4,Normal,High,No,No,Non-Smoker,9.9,Occasionally,3
+985,27,Male,39.5,High,Normal,No,No,Non-Smoker,1,Frequent,8
+986,73,Male,26.5,High,Borderline,No,Yes,Non-Smoker,4,Occasionally,9
+987,47,Female,27.7,High,Normal,Yes,No,Non-Smoker,0.6,Occasionally,2
+988,67,Male,36.7,Elevated,Normal,No,No,Former Smoker,8.2,Occasionally,6
+989,76,Female,24.3,Normal,Normal,No,No,Smoker,0.9,Never,6
+990,62,Female,21.9,Normal,Normal,No,No,Non-Smoker,6.7,Never,9
+991,22,Female,36.8,Normal,Borderline,No,Yes,Non-Smoker,0.6,Occasionally,3
+992,72,Male,19.5,Normal,Normal,No,No,Smoker,6.7,Frequent,1
+993,73,Male,31.8,Normal,Normal,No,No,Smoker,8.4,Occasionally,8
+994,50,Male,30.6,Normal,Borderline,Yes,No,Non-Smoker,4,Occasionally,3
+995,71,Female,25.9,Normal,Normal,Yes,No,Non-Smoker,5.2,Frequent,7
+996,18,Male,25.3,High,High,No,No,Smoker,4,Never,1
+997,35,Female,35.1,Normal,Normal,No,No,Smoker,3,Occasionally,7
+998,49,Female,20.4,High,Normal,No,No,Former Smoker,8,Occasionally,9
+999,64,Male,23.6,Elevated,Normal,No,No,Smoker,2.7,Occasionally,4
+1000,66,Female,34.2,Normal,Normal,No,No,Former Smoker,7.2,Never,6
